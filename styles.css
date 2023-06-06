@@ -3,6 +3,7 @@ body,
 * {
   padding: 0;
   margin: 0;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 li {
@@ -20,10 +21,19 @@ button {
   padding: 10px 20px;
 }
 
+/* header-banner */
+.header-banner {
+  text-align: center;
+  padding: 5px 350px;
+  background-color: rgb(37,37,37);
+  color: rgb(246,245,233);
+}
+
+
 /* header-nav */
 .header-nav {
   padding: 10px 350px;
-  background-color: rgb(37,37,37);
+  background-color: rgb(51,51,51);
   color: rgb(246,245,233);
   display: flex;
   justify-content: space-between;
@@ -31,7 +41,7 @@ button {
 
 .header-logo {
   margin: 0;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 .header-nav-links {
