@@ -85,3 +85,36 @@ button {
   color: rgb(51,51,51);
   cursor:pointer;
 }
+
+/* product-info */
+.product-info {
+  background-color: rgb(255, 254, 243);
+  color:rgb(37,37,37);
+  padding: 100px 350px;
+}
+
+.product-info-title {
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+.product-grid {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.product-grid-item {
+  /* border: 2px solid rgb(37,37,37); */
+  max-width: 250px;
+}
+
+.product-desc {
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+.product-grid-item img{
+  height: 150px;
+}
