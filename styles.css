@@ -73,7 +73,11 @@ button {
 
 .header-main-title, 
 .header-main-desc {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+.header-main-desc {
+  margin-right: 150px;
 }
 
 .header-main button:hover {
