@@ -1,0 +1,36 @@
+html,
+body,
+* {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* header-nav */
+.header-nav {
+  padding: 30px 300px;
+  background-color: rgb(51,51,51);
+  color: rgb(246,245,233);
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-logo {
+  margin: 0;
+}
+
+.header-nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.header-nav-links a {
+  color: rgb(246,245,233);
+}
