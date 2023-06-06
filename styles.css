@@ -29,6 +29,7 @@ a {
 .header-nav-links {
   display: flex;
   gap: 20px;
+  align-items: center;
 }
 
 .header-nav-links a {
