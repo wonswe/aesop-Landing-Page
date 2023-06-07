@@ -117,3 +117,20 @@ button {
 .product-grid-item img{
   height: 200px;
 }
+
+/* quote section */
+.quote {
+  background-color: rgb(153, 179, 169);
+  color:rgb(255, 254, 243);
+  padding: 150px 200px 150px;
+  text-align: center;
+}
+
+.quote-text {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.quote-author {
+  font-style: italic;
+}
