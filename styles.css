@@ -24,7 +24,7 @@ button {
 /* header-banner */
 .header-banner {
   text-align: center;
-  padding: 15px 350px;
+  padding: 15px;
   background-color: rgb(37,37,37);
   color: rgb(246,245,233);
 }
@@ -32,7 +32,7 @@ button {
 
 /* header-nav */
 .header-nav {
-  padding: 30px 350px;
+  padding: 30px 200px;
   background-color: rgb(51,51,51);
   color: rgb(246,245,233);
   display: flex;
@@ -57,7 +57,7 @@ button {
 
 /* header-main */
 .header-main {
-  padding: 230px 350px;
+  padding: 230px 200px;
   background-image: url(images/main-background.png);
   background-size: cover;
   color: rgb(246,245,233);
@@ -90,7 +90,7 @@ button {
 .product-info {
   background-color: rgb(255, 254, 243);
   color:rgb(37,37,37);
-  padding: 100px 350px;
+  padding: 100px 200px;
 }
 
 .product-info-title {
@@ -102,12 +102,11 @@ button {
   text-align: center;
   display: flex;
   justify-content: space-between;
-  gap: 10px;
 }
 
 .product-grid-item {
   /* border: 2px solid rgb(37,37,37); */
-  max-width: 250px;
+  max-width: 350px;
 }
 
 .product-desc {
@@ -116,5 +115,5 @@ button {
 }
 
 .product-grid-item img{
-  height: 150px;
+  height: 200px;
 }
