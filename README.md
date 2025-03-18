@@ -1,3 +1,3 @@
 # landing-page
 
-LIVE: https://woncodes.github.io/landing-page/
+LIVE: https://wonswe.github.io/landing-page/
